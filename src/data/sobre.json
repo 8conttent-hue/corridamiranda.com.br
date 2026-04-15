@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o CORRIDAMIRANDA"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "Sou Raquel Miranda, corredora profissional há 7 anos. Minha paixão pela corrida me levou a querer compartilhar todo o conhecimento que adquiri nas pistas. Aqui, você encontrará conteúdo relevante que pode te auxiliar a alcançar seus objetivos."
+  },
+  "content": "O site CORRIDAMIRANDA foi criado com a intenção de ser um espaço de aprendizado e troca de informações sobre corrida. Aqui, você encontrará desde dicas práticas até planos de treinos completos. Meu compromisso é ajudar você a se tornar a melhor versão de si mesmo através da corrida.",
+  "mission": "Meu objetivo é proporcionar acesso ao conhecimento e motivação necessária para que todos possam praticar a corrida e viver de forma mais saudável.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}

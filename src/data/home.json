@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "title": "CORRIDAMIRANDA — Corrida é Vida!",
+    "description": "Descubra o prazer de correr com Raquel Miranda"
+  },
+  "hero": {
+    "title": "Corrida é Vida!",
+    "subtitle": "Descubra o prazer de correr com Raquel Miranda",
+    "btnText": "Comece Agora",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "O que oferecemos",
+    "items": [
+      {
+        "icon": "🏃‍♀️",
+        "title": "Treinamento Personalizado",
+        "desc": "Planos de treino adaptados ao seu nível e objetivos, seja iniciante ou avançado."
+      },
+      {
+        "icon": "🥗",
+        "title": "Dicas de Nutrição",
+        "desc": "Orientações sobre como se alimentar de forma saudável para melhorar sua performance."
+      },
+      {
+        "icon": "📈",
+        "title": "Acompanhamento de Resultados",
+        "desc": "Ferramentas para monitorar seu progresso e garantir que você esteja sempre avançando."
+      }
+    ]
+  },
+  "about": {
+    "title": "Quem Sou Eu",
+    "desc": "Sou Raquel Miranda, corredora profissional há 7 anos. Minha paixão pela corrida me levou a querer compartilhar todo o conhecimento que adquiri nas pistas. Aqui, você encontrará conteúdo relevante que pode te auxiliar a alcançar seus objetivos.",
+    "stats": [
+      {
+        "value": "7 anos",
+        "label": "Experiência"
+      },
+      {
+        "value": "1000+",
+        "label": "Corredores ajudados"
+      },
+      {
+        "value": "50+",
+        "label": "Planos de treino criados"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}

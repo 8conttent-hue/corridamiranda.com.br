@@ -1,0 +1,53 @@
+{
+  "name": "CORRIDAMIRANDA",
+  "slug": "corridamiranda.com.br",
+  "description": "Olá! É um prazer receber você em meu site, meu nome é Raquel Miranda, sou corredora profissional a 7 anos, sinta-se a vontade! Criei este site para ajudar todas as pessoas que buscam algum tipo de conhecimento na área da corrida. Ou para as que desejam manter uma vida mais regrada e saudável através de uma dieta ou com simples exercícios diários. Escrevo para este site com toda a minha bagagem e experiência adquirida ao longo dos anos nas pistas de corrida. Quando comecei a me interessar por corrida de rua e de pista, quase não achava conteúdo na internet, então decidi criar esse espaço. Meu objetivo sempre será compartilhar todo o meu conhecimento de forma completamente gratuita, na intenção de ajudar o maior número de pessoas possível.",
+  "url": "https://corridamiranda.com.br",
+  "niche": "Esportes e Fitness",
+  "keywords": "Ola E um prazer receber voce em meu site meu nome e",
+  "email": "contato@corridamiranda.com.br",
+  "palette": "sunset",
+  "colors": {
+    "primary": "#f97316",
+    "accent": "#c2410c",
+    "dark": "#431407"
+  },
+  "headerContrast": "light",
+  "font": "lora",
+  "fontFamily": "'Lora', serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap",
+  "components": {
+    "header": "Header-E",
+    "hero": "Hero-H",
+    "features": "Features-C",
+    "about": "About-G",
+    "posts": "Posts-A",
+    "footer": "Footer-C",
+    "sobre": "Sobre-C",
+    "contato": "Contato-A"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
